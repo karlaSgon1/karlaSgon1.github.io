@@ -15,3 +15,4 @@ function populateGradebook(data) {
 const gradeData = fetchGradeData();
 populateGradebook(gradeData);
 //END REMOVE
+console.log("")
